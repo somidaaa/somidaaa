@@ -2,11 +2,11 @@
 
 
 <h1 align='center'>
-✨ABOUT ME✨
-I'm studying programming because I want to be a data analyst.
+✨ABOUT ME✨  
+I'm studying programming because I want to be a data analyst.  
 
 
-✍STUDY✍
+✍STUDY✍  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>
