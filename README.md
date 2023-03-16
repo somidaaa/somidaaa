@@ -1,5 +1,4 @@
-
-<h1 align="center"> 💕 Dasom Lee 💕</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=💕 Dasom Lee 💕 👋&fontSize=90)
 
 
 <h2 align="center">
