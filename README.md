@@ -1,10 +1,13 @@
 
 <h1 align="center"> 💕 Dasom Lee 💕</h1>
 
-<h2 align="center">
+<align="center">
 ✨ABOUT ME✨
+ </a>
+ 
+<h3 align="center"> 
 I'm studying programming because I want to be a data analyst.
-</h2>
+</h3>
 
 
 <h2 align="center">
