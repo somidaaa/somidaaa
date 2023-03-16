@@ -4,10 +4,13 @@
 <h2 align="center">
 ✨ABOUT ME✨
 </h2>
-I'm studying programming because I want to be a data analyst.
 
+<h3 align="center">
+I'm studying programming because I want to be a data analyst.
+</h3>
 <h2 align="center">
 ✍STUDY✍
+</h2>
 
 <h1 align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
