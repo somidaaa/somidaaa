@@ -1,27 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=💕 Dasom Lee 💕 👋&fontSize=90)
-
-
-<h2 align="center">
-✨ABOUT ME✨
-</h2>
- 
- 
-<h3 align="center">
-I'm studying programming because I want to be a data analyst.
-</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=💕Dasom Lee💕&fontSize=90)
 
 
 
-<h2 align="center">
-✍STUDY✍
-</h2>
+## ✨ABOUT ME✨
+###I'm studying programming because I want to be a data analyst.
 
-<h1 align="center">
+
+
+##✍STUDY✍
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>
-</h1>
-
 
 
 <!--
