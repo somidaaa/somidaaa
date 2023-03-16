@@ -1,8 +1,10 @@
 
-<h1 align="center"> 💕 Dasom Lee 💕</h1>
+
 
 <!--
 **somidaaa/somidaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center"> 💕 Dasom Lee 💕</h1>
 
 <h2 align="center">
 ✨ABOUT ME✨
