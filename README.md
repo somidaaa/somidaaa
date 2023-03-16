@@ -17,7 +17,7 @@
 <h1 align='center'>
 💌SNS💌</h1>
 <h2 align='center'>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Python&logoColor=white"/></a></h2></br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Python&logoColor=white"/></a></h2></br>
 </h2></br>
 </br>
