@@ -18,13 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-Tech Stack
+study
 </h2>
-<h3 align="center">
-Techs that I've used at least once
-</h3>
-
-
 <h1 align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/></a>
