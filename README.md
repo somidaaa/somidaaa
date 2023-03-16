@@ -31,5 +31,5 @@ Techs that I've used at least once
 </h1>
 
 <h2 align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somidaaa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somidaaa)](https://github.com/anuraghazra/github-readme-stats)
 </h2>
