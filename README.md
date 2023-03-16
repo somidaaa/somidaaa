@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=💕Dasom%20Lee💕&fontSize=90" />
 
 
+<h1 align='center'>
 ✨ABOUT ME✨
 I'm studying programming because I want to be a data analyst.
 
