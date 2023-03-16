@@ -6,7 +6,6 @@
 <h2 align='center'>I'm studying programming because I want to be a data analyst.</h2></br>
 </br>
 </br>
-</br>
 
 <h1 align='center'>✍STUDY✍</h1>
 <h2 align='center'>
@@ -26,9 +25,6 @@
 </br>
 </br>
 </br>
-
-![somidaaa's github stats](https://github-readme-stats.vercel.app/api?username=somidaaa&show_icons=true)
-
 <!--
 **somidaaa/somidaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
