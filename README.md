@@ -2,7 +2,7 @@
 
 
 <h1 align='center'>
-✨ABOUT ME✨  
+✨ABOUT ME✨</br>
 I'm studying programming because I want to be a data analyst.  
 
 
