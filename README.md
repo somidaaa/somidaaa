@@ -3,11 +3,14 @@
 
 
 <h2 align="center">
-✨ABOUT ME✨</a>
-I'm studying programming because I want to be a data analyst.
+✨ABOUT ME✨
 </h2>
  
  
+<h3 align="center">
+I'm studying programming because I want to be a data analyst.
+</h3>
+
 
 
 <h2 align="center">
