@@ -1,10 +1,6 @@
 
 <h1 align="center"> 💕 Dasom Lee 💕</h1>
--
--
--
--
--
+
 
 <h2 align="center">
 ✨ABOUT ME✨
