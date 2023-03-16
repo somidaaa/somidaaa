@@ -27,6 +27,8 @@
 </br>
 </br>
 
+![somidaaa's github stats](https://github-readme-stats.vercel.app/api?username=somidaaa&show_icons=true)
+
 <!--
 **somidaaa/somidaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
