@@ -17,7 +17,6 @@
   
 </br>
 </br>
-</br>
 
 💌SNS💌</h1>
 <h2 align='center'>
