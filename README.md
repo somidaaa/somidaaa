@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=💕Dasom%20Lee💕&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=abdbe3&height=300&section=header&text=💕Dasom%20Lee💕&fontSize=90" />
 
 
 <h1 align='center'>
