@@ -13,8 +13,12 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=Python&logoColor=white"/></a></h2></br>
-
 <h1 align='center'>
+  
+</br>
+</br>
+</br>
+
 💌SNS💌</h1>
 <h2 align='center'>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Python&logoColor=white"/></a>
